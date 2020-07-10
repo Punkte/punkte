@@ -1,4 +1,9 @@
-### Hi there 👋
+My name is Paartheepan
+
+I live in Paris and I'm continuously learning new web technologies.
+
+  
+
 
 <!--
 **Punkte/punkte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
